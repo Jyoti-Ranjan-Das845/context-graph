@@ -1,0 +1,14 @@
+.env
+/settings.json
+backend/.venv/
+data/
+graphify-out/
+*.duckdb
+node_modules/
+backend/src/context_graph/web/
+.cache/
+__pycache__/
+.pytest_cache/
+reports/
+research_notes/
+.DS_Store
